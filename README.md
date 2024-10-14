@@ -1,11 +1,3 @@
 # testing-commit
 
 Main Branch 1
-
-Main Branch 2
-
-Main Branch 3
-
-Main Branch 4
-
-Main Branch 5
